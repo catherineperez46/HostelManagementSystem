@@ -1,0 +1,81 @@
+body {
+	background-color: #DCDCDC;
+}
+.col-sm-2 {
+	background: #2f4050;
+}
+.col-sm-10 {
+	background: #DCDCDC;
+}
+#side_menu a{
+	color: #9fb1c2;
+}
+#side_menu .active a{
+	color: white;
+	background-color: #27AAE1;
+	font-weight: bold;
+}
+#side_menu a:hover {
+	color: white;
+	background-color: #1ab394;
+	font-weight: bold;
+	display: block;
+}
+#search {
+	margin-top: -20px; 
+	margin-right: -100px;
+}
+.fieldinfo {
+	color: blue;
+	font-family: Bitter,Georgia,"Times New Roman",Times,serif;
+	font-size: 1.2em;
+}
+#main-content {
+ margin-bottom: ; 
+}
+ #main-footer {
+ position: relative;
+ height: 120px; 
+ width: 100%;
+ bottom: 0;
+ background-color: #211f22;
+ text-align: center;
+ color: #eeeeee;
+ border-top: 1px solid black;
+}
+ #footer-bottom {
+ position: relative;
+ width: 100%;
+ bottom: 0;
+ padding: 5px 0;
+ background: white;
+ height: 10px;
+}
+.navbar-brand {
+	font-family: Lato; 
+	color: white; 
+	font-size: 30px;
+	margin-bottom: 20px;
+	word-spacing: -5px;
+	margin-left: -100px;
+}
+.navbar-header a:hover {
+	color: gold;
+}
+.line {
+	height: 5px; 
+	background: white;
+}
+#img {
+	border: 1px solid white; 
+	max-width: 130px; 
+	height: auto; 
+	margin-left: 10px; 
+	background-size: 100% 100%;
+}
+#profilename {
+	color: white; 
+	float: right; 
+	margin-top: 40px;
+}
+
